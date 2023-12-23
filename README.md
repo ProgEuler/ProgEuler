@@ -11,10 +11,10 @@ I'm a passionate computer science student with a knack for turning caffeine into
 ### 🌱 Learning
 I'm always hungry to learn and explore new technologies. Currently diving into CP to broaden my horizons.
 
-      ### 🚀 Projects
+ <!----     ### 🚀 Projects
       - 🤖 [Project Name 1](link): Brief description
       - 🚗 [Project Name 2](link): Brief description
-      - 🌐 [Project Name 3](link): Brief description
+      - 🌐 [Project Name 3](link): Brief description   ---->
 
 ### 📚 Education
 - 🎓 Pursuing a Bachelor's in Computer Science at Norther University of Bangladesh
@@ -22,8 +22,8 @@ I'm always hungry to learn and explore new technologies. Currently diving into C
 ### 🌈 Interests
 Apart from coding, I enjoy TV show, lifting weigth and merathon.
 
-    ### 📫 Let's Connect
+ <!------   ### 📫 Let's Connect
     - 🔗 [LinkedIn](Your LinkedIn Profile Link)
-    - 🐦 [Twitter](Your Twitter Profile Link)
+    - 🐦 [Twitter](Your Twitter Profile Link)            -------->
 
 Looking forward to connecting with fellow coders, collaborating on exciting projects, and constantly evolving in the ever-changing tech landscape. Let's code something amazing together! 🚀✨
