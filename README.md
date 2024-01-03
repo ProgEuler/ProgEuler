@@ -1,5 +1,4 @@
-<h2 align="left">I'm Saruf, a passionate Computer Science undergrad student with a knack for coding and a love for solving complex problems. I am deeply engaged in exploring various aspects of software development, algorithms, and emerging technologies.
-.</h2>
+<h2 align="left">I'm Saruf, a passionate Computer Science undergrad student.</h2>
 
 ###
 
